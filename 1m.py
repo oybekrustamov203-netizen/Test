@@ -15,3 +15,4 @@ print(matn)
 
 
 print("Mening ismim Javohir")
+print ("Oybekdan salom")
