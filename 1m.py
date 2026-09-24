@@ -12,3 +12,6 @@ for son in sonlar:
     matn = matn + chr(int(son))
 
 print(matn)
+
+
+print("Mening ismim Javohir")
